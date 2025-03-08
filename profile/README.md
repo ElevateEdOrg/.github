@@ -11,10 +11,10 @@ The project is divided into multiple repositories, each handling a specific func
 | [elevateed-backend-auth](https://github.com/ElevateEdOrg/elevateed-backend-auth) | Python, Django | User authentication & role management |
 | [elevateed-backend-chat](https://github.com/ElevateEdOrg/elevateed-backend-chat) | Node.js, Express | Chat module for student-instructor communication |
 | [elevateed-backend-course](https://github.com/ElevateEdOrg/elevateed-backend-course) | Node.js, Express | Course management (creation, enrollment, updates) |
-| [elevated-api-gateway](https://github.com/ElevateEdOrg/elevated-api-gateway) | Node.js, Express | API Gateway for routing, authentication, and load balancing |
-| [elevated-frontend-web](https://github.com/ElevateEdOrg/elevated-frontend-web) | Vite, React | Web frontend for students & instructors |
-| [elevated-frontend-app](https://github.com/ElevateEdOrg/elevated-frontend-app) | React Native | Mobile application for course access & assessments |
-| [elevated-ai-ml](https://github.com/ElevateEdOrg/elevated-ai-ml) | Python | AI models for assessments & personalized recommendations |
+| [elevated-api-gateway](https://github.com/ElevateEdOrg/elevateed-api-gateway) | Node.js, Express | API Gateway for routing, authentication, and load balancing |
+| [elevated-frontend-web](https://github.com/ElevateEdOrg/elevateed-frontend-web) | Vite, React | Web frontend for students & instructors |
+| [elevated-frontend-app](https://github.com/ElevateEdOrg/elevateed-frontend-app) | React Native | Mobile application for course access & assessments |
+| [elevated-ai-ml](https://github.com/ElevateEdOrg/elevateed-ai-ml) | Python | AI models for assessments & personalized recommendations |
 
 ## Current Project Status
 ### **Completed**
